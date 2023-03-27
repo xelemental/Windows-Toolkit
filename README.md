@@ -6,3 +6,4 @@
 4. [CRTI-Spotify](https://github.com/xelemental/Windows-Toolkit/blob/main/Spotify-CreateRemoteThread-Inject.cpp) - Injects shellcode inside Spotify using CreateRemode Thread and ThreadProc as shellcode address.
 5. [N-Sec](https://github.com/xelemental/Windows-Toolkit/blob/main/N-Sec.cpp) - Create Empty section without PE Tools, with executable code flag less than 100 lines for backdoor.
 6. [Icreate-Injection](https://github.com/xelemental/Windows-Toolkit/blob/main/ICrerate-Injection.cpp) - Chaining PEB Masquerading technique with CreateRemoteThreadInjection) 
+7. [Process-Dumper](https://github.com/xelemental/Windows-Toolkit/blob/main/Process-Dumper.cpp) - Dumping random process memory using MiniDumpWriteDump except any PPL Process.
